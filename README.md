@@ -1,6 +1,6 @@
 # [Understanding MCMC Dynamics as Flows on the Wasserstein Space](http://proceedings.mlr.press/v97/liu19j.html)
 
-[Chang Liu][changliu] \<<chang-li14@mails.tsinghua.edu.cn> (deprecated); <liuchangsmail@gmail.com>\>,
+[Chang Liu][changliu] \<~~<chang-li14@mails.tsinghua.edu.cn>~~; <liuchangsmail@gmail.com>\>,
 [Jingwei Zhuo][jingweizhuo], and [Jun Zhu][junzhu]. ICML 2019.
 
 \[[Paper & Appendix](http://ml.cs.tsinghua.edu.cn/~changliu/hgf/hgf.pdf)\]
